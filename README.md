@@ -439,52 +439,80 @@ Contributions are welcome!
 
 ---
 
-# ⭐ Support
+---
 
-If you found this project helpful:
+<div align="center">
+
+# ⭐ Support the Project
+
+If you found this project useful, informative, or inspiring, please consider giving it a ⭐ on GitHub.
+
+Your support helps improve the project, motivates future development, and makes it easier for others to discover it.
+
+<a href="https://github.com/Ronit049/-WhisperWall">
+  <img src="https://img.shields.io/github/stars/Ronit049/-WhisperWall?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+</a>
+
+<br><br>
+
+# 👨‍💻 Author
+
+### **Ronit Raj**
+
+<p>
+Passionate Computer Science Student focused on building practical AI-powered applications,
+modern web experiences, and open-source projects.
+</p>
+
+<p>
+<a href="https://github.com/Ronit049">
+<img src="https://img.shields.io/badge/GitHub-Ronit049-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+# 🌟 Show Your Support
+
+If this repository helped you:
 
 ⭐ Star the repository
 
 🍴 Fork it
 
-📢 Share it with others
+🐛 Report bugs
+
+💡 Suggest new features
+
+🤝 Contribute to make it even better
+
+Every contribution—big or small—is greatly appreciated.
 
 ---
 
-# 👨‍💻 Author
+# 💙 Thank You
 
-**Ronit Raj**
+Thank you for visiting this repository!
 
-Computer Science Engineering Student
+I truly appreciate your time and interest in this project. I hope it helps you learn something new or solve a real problem.
 
-Passionate about
+If you have ideas, feedback, or would like to collaborate on future projects, feel free to reach out. Contributions, discussions, and suggestions are always welcome.
 
-* Artificial Intelligence
-* Agentic AI
-* Machine Learning
-* Python Development
-* LangChain
-* Generative AI
-* Open Source
+**Happy Coding! 🚀**
 
-GitHub: https://github.com/Ronit049
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting!;Happy+Coding!;Keep+Building+Amazing+Things!;See+You+Again!+👋" />
 
-LinkedIn: https://www.linkedin.com/in/ronit-raj/
+<br>
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
-Feel free to use, modify, and distribute this project for educational and personal purposes.
-
----
-
-<div align="center">
-
-### ⭐ If you like this project, don't forget to give it a Star! ⭐
-
-**Made with ❤️ using Python, LangChain, Groq & Streamlit**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:111827&height=160&section=footer"/>
 
 </div>
